@@ -1,0 +1,15 @@
+* {
+    box-sizing: border-box;
+    margin: auto;
+  }
+
+  .div {
+    background-color: #ff9966;
+    color: #fff;
+    border: 2px solid #cc7d85;
+    border-radius: 10px;
+    transition: all 0.3s ease;
+  }
+
+
+  
